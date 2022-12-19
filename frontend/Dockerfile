@@ -4,4 +4,5 @@ WORKDIR /app
 
 COPY . .
 
+RUN rm -rf package-lock.json
 RUN npm install
