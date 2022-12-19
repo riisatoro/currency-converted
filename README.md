@@ -10,4 +10,4 @@
 * Create .env file (use .env.example as an example).
 * Run `docker-compose up --build`
 
-Application should run on 'http://localhost:3000'
+Application should run on http://localhost:3000
